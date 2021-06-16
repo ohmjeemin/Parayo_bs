@@ -8,7 +8,7 @@ import com.example.parayo.signup.SignupActivity
 import kotlinx.coroutines.*
 import org.jetbrains.anko.setContentView
 import org.jetbrains.anko.startActivity
-
+//git test
 class IntroActivity : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
